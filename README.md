@@ -1,4 +1,4 @@
-### Welcome
+# Welcome
 
 Hi! I am Chris Desjardins. I am an assistant professor of mathematics and statistics at [St. Michael's College](https://www.smcvt.edu/) and an associate research scientist and data analyst at [Oregon Research Institute](https://www.ori.org/). 
 
@@ -17,9 +17,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![https://www.linkedin.com/in/christopher-desjardins-25b20226a/](https://github.com/cddesja/cddesja/blob/main/icons8-linkedin-50.png)
+## Dashboards
+### Shiny
+- [Minnesota Study Survey](https://cddesja.shinyapps.io/Minnesota-Student-Survey-2013-to-2019/)
 
-[![Google Scholar](https://img.shields.io/badge/Citations-1.4k-_.svg?style=social&logo=google-scholar)](https://scholar.google.com/citations?user=lyJv7IMAAAAJ&hl=en)
+### Tableau
+- [Change in Abortions from 2020 to 2023](https://public.tableau.com/app/profile/christopher.desjardins/viz/NYTimesAbortionStory/Dashboard1)
+
+
+[![Email](https://github.com/cddesja/cddesja/blob/main/icons8-email-50.png)](mailto:cddesjardins@gmail.com)
+[![Google Scholar](https://github.com/cddesja/cddesja/blob/main/icons8-google-scholar-50.png)](https://scholar.google.com/citations?user=lyJv7IMAAAAJ&hl=en)
 [![LinkedIn](https://github.com/cddesja/cddesja/blob/main/icons8-linkedin-50.png)](https://www.linkedin.com/in/christopher-desjardins-25b20226a/)
 
 
