@@ -27,7 +27,7 @@ Here are some ideas to get you started:
  
 ### Tableau
 - #### [Change in Abortions from 2020 to 2023](https://public.tableau.com/app/profile/christopher.desjardins/viz/NYTimesAbortionStory/Dashboard1)
-  The purpose of this dashboard was to recreate the visualization shown on the [NY Times](https://www.nytimes.com/interactive/2023/09/07/us/abortion-data-bans-laws.html) and show to my Data Visualizations studnet how quickly visualizations can be created in Tableau.
+  The purpose of this dashboard was to recreate the visualization shown on the [NY Times](https://www.nytimes.com/interactive/2023/09/07/us/abortion-data-bans-laws.html) and show to my Data Visualizations students how quickly visualizations can be created in Tableau.
 
 - #### [Tracking COVID-19 in Vermont](https://public.tableau.com/app/profile/christopher.desjardins/viz/COVID-19inVermont/VTDashboard)
   This COVID-19 dashboard was created for prospective public health students at [St. Michael's College](https://www.smcvt.edu/).
