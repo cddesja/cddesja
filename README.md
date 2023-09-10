@@ -28,24 +28,24 @@ Here are some ideas to get you started:
 ## Selected Data Visualizations
 ### Shiny
 - #### [Minnesota Study Survey](https://cddesja.shinyapps.io/Minnesota-Student-Survey-2013-to-2019/)
-  This dashboard shows student performance at the school-level on various domains measured on the Minnesota Study Survey. This was created while I was at the [Center for Applied Research and Educational Improvement](https://carei.umn.edu/) and the target audience was school administrators. 
+  This dashboard shows student performance at the school-level on various domains measured on the Minnesota Study Survey. The target audience was school administrators. 
 
 - #### [Visualizing Atlantis Diagnostic Tool](https://cddesja.shinyapps.io/Visualizing-Atlantis-Diagnostic-Tool/)
-  This Shiny app (and associated [R](https://github.com/cddesja/vat) package) were created to help [Atlantis](https://research.csiro.au/atlantis/) modelers better understand and tune their models.
+  This app (and associated [R](https://github.com/cddesja/vat) package) were created to help [Atlantis](https://research.csiro.au/atlantis/) modelers better understand and tune their models.
 
 - #### [Lock5 Data Explorer](https://cddesja.shinyapps.io/lock5explorer/)
-  A simple data viewer for the datasets contained in [Lock5](https://www.lock5stat.com/). It includes single and multiple variable visualizations and descriptive statistics. 
- 
+  A simple data viewer for the datasets contained in [Lock5](https://www.lock5stat.com/) for introductory statistics students.
+  
 ### Tableau
 - #### [Change in Abortions from 2020 to 2023](https://public.tableau.com/app/profile/christopher.desjardins/viz/NYTimesAbortionStory/Dashboard1)
-  The purpose of this dashboard was to recreate the visualization shown on the [NY Times](https://www.nytimes.com/interactive/2023/09/07/us/abortion-data-bans-laws.html) and show to my Data Visualizations students how quickly visualizations can be created in Tableau.
+  A recreation of a [NY Times](https://www.nytimes.com/interactive/2023/09/07/us/abortion-data-bans-laws.html) visualization to demonstrate to my students how quickly dashboards can be created in Tableau.
 
 - #### [Tracking COVID-19 in Vermont](https://public.tableau.com/app/profile/christopher.desjardins/viz/COVID-19inVermont/VTDashboard)
-  This COVID-19 dashboard was created for prospective public health students at [St. Michael's College](https://www.smcvt.edu/).
+  A COVID-19 dashboard for Vermont for prospective public health students.
 
 ## Selected R Packages
 - #### [profileR](https://cran.r-project.org/web/packages/profileR/index.html)
-  A suite of multivariate methods and data visualization tools to implement profile analysis and cross-validation techniques described in Davison & Davenport (2002), Bulut (2013), and other published and unpublished resources. The package includes routines to perform criterion-related profile analysis, profile analysis via multidimensional scaling, moderated profile analysis, profile analysis by group, and a within-person factor model to derive score profiles.
+  A suite of multivariate methods and data visualization tools that implement profile analysis and cross-validation.
 
 - #### [ctools](https://github.com/cddesja/ctools)
   An extension for [jamovi](https://www.jamovi.org/) to make it more friendly for introductory statistics students using the [Lock5](https://www.lock5stat.com/) textbook.  
