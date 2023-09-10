@@ -2,7 +2,7 @@
 
 Hi! I am Chris Desjardins. 
 
-I am an assistant professor of mathematics and statistics at [St. Michael's College](https://www.smcvt.edu/) and an associate research scientist and data analyst at [Oregon Research Institute](https://www.ori.org/). 
+I am an assistant professor of mathematics and statistics at [St. Michael's College](https://www.smcvt.edu/) and an associate research scientist and data analyst at [Oregon Research Institute](https://www.ori.org/). I am interested in data visualization, data science, applied statistics, and statistics education. 
 
 <!--
 **cddesja/cddesja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,7 +25,10 @@ Here are some ideas to get you started:
   This dashboard shows student performance at the school-level on various domains measured on the Minnesota Study Survey. This was created while I was at the [Center for Applied Research and Educational Improvement](https://carei.umn.edu/) and the target audience was school administrators. 
 
 - #### [Visualizing Atlantis Diagnostic Tool](https://cddesja.shinyapps.io/Visualizing-Atlantis-Diagnostic-Tool/)
-  This Shiny app (and associated [R](https://github.com/cddesja/vat) package) were created to help [Atlantis](https://research.csiro.au/atlantis/) modelers better understand and tune their models. 
+  This Shiny app (and associated [R](https://github.com/cddesja/vat) package) were created to help [Atlantis](https://research.csiro.au/atlantis/) modelers better understand and tune their models.
+
+- #### [Lock5 Data Explorer](https://cddesja.shinyapps.io/lock5explorer/)
+  A simple data viewer for the datasets contained in [Lock5](https://www.lock5stat.com/). It includes single and multiple variable visualizations and descriptive statistics. 
  
 ### Tableau
 - #### [Change in Abortions from 2020 to 2023](https://public.tableau.com/app/profile/christopher.desjardins/viz/NYTimesAbortionStory/Dashboard1)
@@ -33,6 +36,13 @@ Here are some ideas to get you started:
 
 - #### [Tracking COVID-19 in Vermont](https://public.tableau.com/app/profile/christopher.desjardins/viz/COVID-19inVermont/VTDashboard)
   This COVID-19 dashboard was created for prospective public health students at [St. Michael's College](https://www.smcvt.edu/).
+
+## Selected R Packages
+- #### [profileR](https://cran.r-project.org/web/packages/profileR/index.html)
+  A suite of multivariate methods and data visualization tools to implement profile analysis and cross-validation techniques described in Davison & Davenport (2002), Bulut (2013), and other published and unpublished resources. The package includes routines to perform criterion-related profile analysis, profile analysis via multidimensional scaling, moderated profile analysis, profile analysis by group, and a within-person factor model to derive score profiles.
+
+- #### [ctools](https://github.com/cddesja/ctools)
+  An extension for [jamovi][https://www.jamovi.org/] to make it more friendly for introductory statistics students using the [Lock5](https://www.lock5stat.com/) textbook.  
 
 </br>
 
