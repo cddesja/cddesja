@@ -7,7 +7,7 @@ I am an assistant professor of mathematics and statistics at [St. Michael's Coll
 ## Handbook of Educational Measurement and Psychometrics Using R <a href="https://www.routledge.com/Handbook-of-Educational-Measurement-and-Psychometrics-Using-R/Desjardins-Bulut/p/book/9780367734671"><img align = "left" width="100" height="150" src="https://images.routledge.com/common/jackets/amazon/978036773/9780367734671.jpg"></a>
 
 
-[Okan Bulut](https://github.com/okanbulut) and I wrote a book on using R for educational measurement. Topics include: classical test theory; generalizability theory; the factor analytic approach in measurement; unidimensional, multidimensional, and explanatory item response modeling; test equating; visualizing measurement models; measurement invariance; and differential item functioning.
+[Okan Bulut](https://github.com/okanbulut) and I wrote a book (and an [R package](https://github.com/cddesja/hemp)) on using R for educational measurement. Topics include: classical test theory; generalizability theory; the factor analytic approach in measurement; unidimensional, multidimensional, and explanatory item response modeling; test equating; visualizing measurement models; measurement invariance; and differential item functioning.
 
 <!--
 **cddesja/cddesja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
