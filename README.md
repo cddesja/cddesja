@@ -34,10 +34,10 @@ Here are some ideas to get you started:
 
 </br>
 
-[![Email](https://github.com/cddesja/cddesja/blob/main/icons8-email-50.png)](mailto:cddesjardins@gmail.com)
-[![Google Scholar](https://github.com/cddesja/cddesja/blob/main/icons8-google-scholar-50.png)](https://scholar.google.com/citations?user=lyJv7IMAAAAJ&hl=en)
-[![LinkedIn](https://github.com/cddesja/cddesja/blob/main/icons8-linkedin-50.png)](https://www.linkedin.com/in/christopher-desjardins-25b20226a/)
-
-
+<p align="center">
+  <a href="mailto:cddesjardins@gmail.com"><img src="https://github.com/cddesja/cddesja/blob/main/icons8-email-50.png"></a>
+  <a href="https://www.linkedin.com/in/christopher-desjardins-25b20226a/"><img src="https://github.com/cddesja/cddesja/blob/main/icons8-linkedin-50.png"></a>
+  <a href="https://scholar.google.com/citations?user=lyJv7IMAAAAJ&hl=en"><img src="https://github.com/cddesja/cddesja/blob/main/icons8-google-scholar-50.png"></a>
+</p>
 
 
