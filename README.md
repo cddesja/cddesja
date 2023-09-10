@@ -1,6 +1,8 @@
 # Welcome
 
-Hi! I am Chris Desjardins. I am an assistant professor of mathematics and statistics at [St. Michael's College](https://www.smcvt.edu/) and an associate research scientist and data analyst at [Oregon Research Institute](https://www.ori.org/). 
+Hi! I am Chris Desjardins. 
+
+I am an assistant professor of mathematics and statistics at [St. Michael's College](https://www.smcvt.edu/) and an associate research scientist and data analyst at [Oregon Research Institute](https://www.ori.org/). 
 
 <!--
 **cddesja/cddesja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
