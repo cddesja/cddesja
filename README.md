@@ -42,7 +42,7 @@ Here are some ideas to get you started:
   A suite of multivariate methods and data visualization tools to implement profile analysis and cross-validation techniques described in Davison & Davenport (2002), Bulut (2013), and other published and unpublished resources. The package includes routines to perform criterion-related profile analysis, profile analysis via multidimensional scaling, moderated profile analysis, profile analysis by group, and a within-person factor model to derive score profiles.
 
 - #### [ctools](https://github.com/cddesja/ctools)
-  An extension for [jamovi][https://www.jamovi.org/] to make it more friendly for introductory statistics students using the [Lock5](https://www.lock5stat.com/) textbook.  
+  An extension for [jamovi](https://www.jamovi.org/) to make it more friendly for introductory statistics students using the [Lock5](https://www.lock5stat.com/) textbook.  
 
 </br>
 
