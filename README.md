@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   This dashboard shows student performance at the school-level on various domains measured on the Minnesota Study Survey. This was created while I was at the [Center for Applied Research and Educational Improvement](https://carei.umn.edu/) and the target audience was school administrators. 
 
 - #### [Visualizing Atlantis Diagnostic Tool](https://github.com/cddesja/vat)
-  This Shiny app (and associated R package) were created to help [Atlantis](https://research.csiro.au/atlantis/) modelers better understand and tune their models. 
+  This Shiny app (and associated [R](https://github.com/cddesja/vat) package) were created to help [Atlantis](https://research.csiro.au/atlantis/) modelers better understand and tune their models. 
  
 ### Tableau
 - #### [Change in Abortions from 2020 to 2023](https://public.tableau.com/app/profile/christopher.desjardins/viz/NYTimesAbortionStory/Dashboard1)
