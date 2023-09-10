@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - #### [Minnesota Study Survey](https://cddesja.shinyapps.io/Minnesota-Student-Survey-2013-to-2019/)
   This dashboard shows student performance at the school-level on various domains measured on the Minnesota Study Survey. This was created while I was at the [Center for Applied Research and Educational Improvement](https://carei.umn.edu/) and the target audience was school administrators. 
 
-- #### [Visualizing Atlantis Diagnostic Tool](https://github.com/cddesja/vat)
+- #### [Visualizing Atlantis Diagnostic Tool](https://cddesja.shinyapps.io/Visualizing-Atlantis-Diagnostic-Tool/)
   This Shiny app (and associated [R](https://github.com/cddesja/vat) package) were created to help [Atlantis](https://research.csiro.au/atlantis/) modelers better understand and tune their models. 
  
 ### Tableau
