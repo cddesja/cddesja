@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Select Data Visualizations
+## Selected Data Visualizations
 ### Shiny
 - #### [Minnesota Study Survey](https://cddesja.shinyapps.io/Minnesota-Student-Survey-2013-to-2019/)
   This dashboard shows student performance at the school-level on various domains measured on the Minnesota Study Survey. This was created while I was at the [Center for Applied Research and Educational Improvement](https://carei.umn.edu/) and the target audience was school administrators. 
