@@ -2,7 +2,9 @@
 
 Hi! I am Chris Desjardins. 
 
-I am a statistician at the FDA working on applications of AI/ML. I have been working on implementing a Claude 3.5 Sonnet model to generate reports to support FDA investigators inspections of firms, developing a model to optimize firm assignments for consumer safety officers, and developing several different Shiny/Python applications to explore imported goods that are regulated by the FDA. Prior to joing the FDA, I was an assistant professor of mathematics and statistics at [St. Michael's College](https://www.smcvt.edu/) and an associate research scientist and data analyst at [Stanford University](https://www.stanford.edu) and [Oregon Research Institute](https://www.ori.org/). I am interested in data visualization, data science, applied statistics, and AI/ML. 
+I am a statistician at the FDA working on applications of AI/ML. I have been working on implementing a Claude 3.5 Sonnet model to generate reports to support FDA investigators inspections of firms, developing a model to optimize firm assignments for consumer safety officers, and developing several different Shiny/Python applications to explore imported goods that are regulated by the FDA. 
+
+Prior to joining the FDA, I was an assistant professor of mathematics and statistics at [St. Michael's College](https://www.smcvt.edu/) and an associate research scientist and data analyst at [Stanford University](https://www.stanford.edu) and [Oregon Research Institute](https://www.ori.org/). I am interested in data visualization, data science, applied statistics, and AI/ML. 
 
 ## Handbook of Educational Measurement and Psychometrics Using R <a href="https://www.routledge.com/Handbook-of-Educational-Measurement-and-Psychometrics-Using-R/Desjardins-Bulut/p/book/9780367734671"><img align = "left" width="100" height="150" src="https://images.routledge.com/common/jackets/amazon/978036773/9780367734671.jpg"></a>
 
