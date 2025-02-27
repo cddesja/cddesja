@@ -2,7 +2,7 @@
 
 Hi! I am Chris Desjardins. 
 
-I am a statistician at the FDA working on applications of AI/ML. I have been working on implementing a Claude 3.5 Sonnet model to generate reports to support FDA investigators inspections of firms, developing a model to optimize firm assignments for consumer safety officers, and developing several different Shiny/Python applications to explore imported goods that are regulated by the FDA. 
+I am a statistician at the FDA working on applications of AI/ML. I have been working on implementing a Claude 3.5 Sonnet model to generate reports to support FDA investigators inspections of firms, developing a model to optimize firm assignments for consumer safety officers, and developing several different Shiny/Python applications to explore imported goods that are regulated by the FDA. I have been largely dormant to GitHub but quite busy on FDA's GitLab! 
 
 Prior to joining the FDA, I was an assistant professor of mathematics and statistics at [St. Michael's College](https://www.smcvt.edu/) and an associate research scientist and data analyst at [Stanford University](https://www.stanford.edu) and [Oregon Research Institute](https://www.ori.org/). I am interested in data visualization, data science, applied statistics, and AI/ML. 
 
